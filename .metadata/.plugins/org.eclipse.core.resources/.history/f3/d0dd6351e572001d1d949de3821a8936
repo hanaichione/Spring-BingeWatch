@@ -1,0 +1,10 @@
+package org.zerock.sample;
+
+public class Chef {
+
+	public Chef() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+}	
